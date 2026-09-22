@@ -3,7 +3,11 @@ this repo hosts all of my davinci resolve keybinds
 
 
 # installation
-download this repo by clicking on the green "Code" button & selecting "Download ZIP". extract the `ktg5's Resolve Binds.txt` file and load up a project in resolve. press `Ctrl`+`Alt`+`K` to open the keybinds popup. at the top right of the keybinds popup, click the hamburger button (the 3 dots) & select `Import Preset...`, then select the keybinds file you just extracted & it'll be loaded
+1. download this repo by clicking on the green "Code" button & selecting "Download ZIP".
+2. extract the `ktg5's Resolve Binds.txt` file and load up a project in resolve. 
+3. press `Ctrl`+`Alt`+`K` to open the keybinds popup.
+4. at the top right of the keybinds popup, click the hamburger button (the 3 dots) & select `Import Preset...`, then select the keybinds file you just extracted
+boom--it's installed
 
 
 # keybinds
